@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "oceano-academy",
+    "slug": "oceano-academy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "oceano-academy"
+}
