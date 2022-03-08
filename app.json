@@ -3,9 +3,18 @@
     "name": "oceano-academy",
     "slug": "oceano-academy",
     "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname",
+      "versionCode": 1
+    },
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   },
   "name": "oceano-academy"
 }
